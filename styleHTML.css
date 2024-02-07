@@ -1,0 +1,24 @@
+h1, h2 {
+    text-align: center;
+}
+nav {
+    display: inline-block;
+    background-color: #ddd;
+    color: green;
+}
+div {
+    display: inline-block;
+    background-color: #ddd;
+    color: brown;
+}
+code {
+    white-space: pre;
+    display: block;
+    background-color: #ddd;
+    color: brown;
+}
+span {
+    display: inline-block;
+    background-color: #ddd;
+    color: black;
+}
