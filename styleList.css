@@ -1,0 +1,20 @@
+ol {
+    width: 440px;
+    padding: 20px;
+    list-style-position: inside;
+    color: #ede8e8;
+}
+li {
+    margin: 10px 0 10px 0;
+    padding: 5px 5px 5px 10px;
+    background-color: #DB7093;
+}
+span {
+    margin-left: 8px;
+    padding: 5px 15px 5px 15px;
+    background-color: #9e354a;
+}
+.List {
+    background-color: #ed9eae;
+}
+
